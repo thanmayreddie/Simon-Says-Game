@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-image: url(https://t3.ftcdn.net/jpg/08/09/59/04/240_F_809590432_8rZqGOmF28QAhFnN6c2kN1DUmEweSFhx.jpg);
+    background-size: cover;
+
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.flash {
+    background-color: rgb(233, 227, 227);
+}
+.userFlash {
+    background-color: green;
+}
